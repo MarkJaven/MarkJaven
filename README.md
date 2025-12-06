@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Premium Gradient Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,6,11,20&height=200&section=header&text=MARK%20JAVEN%20MANALO&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=53&descAlign=50&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,6,11,20&height=200&section=header&text=MARK%20JAVEN%20MANALO&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst&descAlignY=53&descAlign=50&descSize=18"/>
 
 <!-- Premium Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -67,11 +67,6 @@ const developer = {
 </div>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=E5E7EB&rank_icon=github&ring_color=6366F1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=E5E7EB&rank_icon=github&ring_color=6366F1"/>
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB"/>
