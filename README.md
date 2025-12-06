@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=700&height=80&lines=Loves+Gaming+%F0%9F%8E%AE;Loves+Programming+%E2%9C%A8;Building+Digital+Experiences+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%F0%9F%92%A1" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=700&height=80&lines=Loves+Gaming;Loves+Programming;Love+You" alt="Typing Animation" />
 </a>
 
 <!-- Premium Social Badges -->
@@ -45,16 +45,12 @@
 const developer = {
     name: "Mark Javen Manalo",
     location: "Paombong, Bulacan, Central Luzon, Philippines",
-    current_role: "Full Stack Developer & Data Analyst",
-    specializations: [
+    title: [
         "Game Development",
-        "Web Development", 
-        "Data Analysis",
-        "Blockchain Development",
-        "Audio Description Recording (ADR)"
-    ],
-    current_focus: "Building innovative solutions that merge creativity with technology",
-    life_motto: "Code, Create, Conquer"
+        "Web Development",
+        "Data Analyst",
+        "ADR",
+    ]
 };
 ```
 
@@ -171,13 +167,9 @@ const developer = {
 
 <br/>
 
-<!-- Snake Animation -->
+<!-- 3D Contribution Calendar -->
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarkJaven/MarkJaven/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarkJaven/MarkJaven/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=MarkJaven&theme=tokyonight&bg_color=0D1117&border_color=6366F1&title_color=6366F1&text_color=E5E7EB" alt="3D Contribution Calendar"/>
 </div>
 
 <br/>
