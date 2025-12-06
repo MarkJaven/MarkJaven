@@ -126,7 +126,6 @@ const developer = {
 <!-- Profile Summary Card - Using GitHub Action Generated Files -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/main/profile-summary-card-output/algolia/0-profile-details.svg"/></div>
-<img src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/main/profile-summary-card-output/algolia/3-stats.svg"/></div>
 
 
 <br/>
