@@ -47,9 +47,7 @@ const developer = {
         "Web Development",
         "Data Analyst",
         "ADR",
-    ],
-    philosophy: "Clean code is not written by following a set of rules",
-    approach: "Building scalable, maintainable, and elegant solutions"
+    ]
 };
 ```
 
@@ -65,11 +63,6 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=cs,java,js,php,python,react,django,flutter,firebase,mysql,unity,github,figma,solidity&theme=dark&perline=7" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REMIX_IDE-000000?style=for-the-badge&logo=remix&logoColor=white&labelColor=1C1C1C" alt="Remix IDE"/>
-  <img src="https://img.shields.io/badge/BLOCKCHAIN-6366F1?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=4F46E5" alt="Blockchain"/>
-  <img src="https://img.shields.io/badge/SMART_CONTRACTS-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=454A75" alt="Smart Contracts"/>
-</p>
 
 <!-- Gradient Divider -->
 <div align="center">
