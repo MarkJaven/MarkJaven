@@ -142,10 +142,6 @@ const developer = {
 
 <br/>
 
-<!-- 3D Contribution Calendar -->
-<div align="center">
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=MarkJaven&theme=tokyonight&bg_color=0D1117&border_color=6366F1&title_color=6366F1&text_color=E5E7EB" alt="3D Contribution Calendar"/>
-</div>
 
 <br/>
 
