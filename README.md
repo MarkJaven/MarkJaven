@@ -88,10 +88,6 @@ const developer = {
 <div align="center">
 
 <!-- GitHub Stats Card -->
-
-<!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkJaven&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB&langs_count=8"/>
-
 </div>
 
 <br/>
