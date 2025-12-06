@@ -88,6 +88,11 @@ const developer = {
 <div align="center">
 
 <!-- GitHub Stats Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarkJaven&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=E5E7EB&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<!-- Top Languages Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkJaven&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB&langs_count=8"/>
+
 </div>
 
 <br/>
@@ -118,17 +123,17 @@ const developer = {
 
 <br/>
 
-<!-- Profile Summary Card -->
+<!-- Profile Summary Card - Using GitHub Action Generated Files -->
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarkJaven&theme=tokyonight" alt="Profile Summary"/>
+<img src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/main/profile-summary-card-output/0-profile-details.svg" alt="Profile Summary"/>
 </div>
 
 <br/>
 
-<!-- Commit Time Distribution -->
+<!-- Commit Time Distribution - Using GitHub Action Generated Files -->
 <div align="center">
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarkJaven&theme=tokyonight&utcOffset=8" alt="Productive Time"/>
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarkJaven&theme=tokyonight" alt="Repos per Language"/>
+<img width="49%" src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/main/profile-summary-card-output/4-productive-time.svg" alt="Productive Time"/>
+<img width="49%" src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/main/profile-summary-card-output/1-repos-per-language.svg" alt="Repos per Language"/>
 </div>
 
 <br/>
@@ -138,6 +143,10 @@ const developer = {
 
 <br/>
 
+<!-- 3D Contribution Calendar -->
+<div align="center">
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=MarkJaven&theme=tokyonight&bg_color=0D1117&border_color=6366F1&title_color=6366F1&text_color=E5E7EB" alt="3D Contribution Calendar"/>
+</div>
 
 <br/>
 
