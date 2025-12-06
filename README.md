@@ -1,26 +1,152 @@
-<!-- Name Logo with Gradient & Glow -->
-<p align="center">
-  <img 
-    src="https://img.shields.io/badge/Mark%20Javen%20Manalo-Developer?style=for-the-badge&logo=github&logoColor=white&colorA=8A2BE2&colorB=4B0082&animation=glow" 
-    alt="Mark Javen Manalo" 
-    width="600" 
-  />
+<div align="center">
+
+<!-- Premium Gradient Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,6,11,20&height=200&section=header&text=MARK%20JAVEN%20MANALO&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=53&descAlign=50&descSize=18"/>
+
+<!-- Premium Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Building+Premium+Digital+Experiences;Architecting+Scalable+Solutions;Transforming+Concepts+Into+Reality" alt="Typing Animation" />
+</a>
+
+<br/>
+
+<!-- Social Links with Premium Style -->
+<p>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F" alt="Email"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-6366F1?style=for-the-badge&logo=firefox&logoColor=white&labelColor=4F46E5" alt="Portfolio"/>
+  </a>
 </p>
 
-## 🛠️ Tech Stack
+<br/>
+
+</div>
+
+<!-- About Section with Gradient Border -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png"/>
+
+### ABOUT
+
+</div>
+
+```typescript
+const developer = {
+    name: "Mark Javen Manalo",
+    location: "Angeles City, Central Luzon, Philippines",
+    title: "Full Stack Developer & Creative Technologist",
+    expertise: [
+        "Web Development",
+        "Mobile Applications", 
+        "Game Development",
+        "UI/UX Design"
+    ],
+    philosophy: "Clean code is not written by following a set of rules",
+    approach: "Building scalable, maintainable, and elegant solutions"
+};
+```
+
+<!-- Gradient Divider -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png"/>
+
+### TECHNOLOGY STACK
+
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&colorA=1F4F13&colorB=3FA34D&animation=glow" alt="C#" height="40" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&colorA=004E7C&colorB=0091D1&animation=glow" alt="Java" height="40" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&colorA=E5C51B&colorB=F7E34F&animation=glow" alt="JavaScript" height="40" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&colorA=5E4F8A&colorB=9A80CC&animation=glow" alt="PHP" height="40" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&colorA=2B5D8A&colorB=4A8AB8&animation=glow" alt="Python" height="40" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&colorA=3FA0C3&colorB=8DE4FF&animation=glow" alt="React" height="40" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&colorA=061811&colorB=15432F&animation=glow" alt="Django" height="40" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&colorA=013E75&colorB=037DCB&animation=glow" alt="Flutter" height="40" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&colorA=E0A924&colorB=FFE15A&animation=glow" alt="Firebase" height="40" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&colorA=2E5270&colorB=5E9ACD&animation=glow" alt="MySQL" height="40" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&colorA=000000&colorB=2E2E2E&animation=glow" alt="Unity" height="40" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&colorA=000000&colorB=282828&animation=glow" alt="GitHub" height="40" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&colorA=B83714&colorB=FF7660&animation=glow" alt="Figma" height="40" style="margin:5px;" />
+<img src="https://skillicons.dev/icons?i=cs,java,js,php,python,react,django,flutter,firebase,mysql,unity,github,figma&theme=dark&perline=7" />
 </p>
+
+<!-- Gradient Divider -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png"/>
+
+### ANALYTICS & PERFORMANCE
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=E5E7EB&rank_icon=github&ring_color=6366F1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=E5E7EB&rank_icon=github&ring_color=6366F1"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB"/>
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=818CF8&currStreakLabel=6366F1&sideLabels=E5E7EB&sideNums=E5E7EB&dates=9CA3AF"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=818CF8&currStreakLabel=6366F1&sideLabels=E5E7EB&sideNums=E5E7EB&dates=9CA3AF"/>
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Contribution%20Activity&bg_color=0D1117&color=6366F1&line=818CF8&point=E5E7EB&area=true&hide_border=true&area_color=6366F1"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Contribution%20Activity&bg_color=0D1117&color=6366F1&line=818CF8&point=E5E7EB&area=true&hide_border=true&area_color=6366F1"/>
+</picture>
+
+</div>
+
+<!-- Gradient Divider -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png"/>
+
+### CURRENTLY LISTENING
+
+</div>
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+  <img src="https://novatorem-kyzbk7u8l-bardiesel.vercel.app/api/spotify?background_color=0D1117&border_color=6366F1" alt="Spotify Now Playing" />
+</a>
+
+<br/><br/>
+
+<a href="https://open.spotify.com/playlist/YOUR_PLAYLIST_ID">
+  <img src="https://img.shields.io/badge/CODING_PLAYLIST-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1AA34A" alt="Spotify Playlist"/>
+</a>
+
+</div>
+
+<!-- Premium Footer -->
+<div align="center">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png"/>
+
+<br/>
+
+**CONNECT WITH ME**
+
+<a href="https://linkedin.com/in/yourprofile" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:your.email@example.com" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://yourportfolio.com" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/-Portfolio-6366F1?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,6,11,20&height=120&section=footer"/>
+
+</div>
