@@ -49,9 +49,7 @@ const developer = {
 };
 ```
 
-<!-- Gradient Divider -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png"/>
+
 
 ### TECHNOLOGY STACK
 
@@ -62,9 +60,7 @@ const developer = {
 </p>
 
 
-<!-- Gradient Divider -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png"/>
+
 
 ### ANALYTICS & PERFORMANCE
 
