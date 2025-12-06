@@ -12,13 +12,13 @@
 
 <!-- Social Links with Premium Style -->
 <p>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/MarkJaven">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="linkedin.com/m/in/mark-javen-manalo-116mjam/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:markjaven.a.manalo@gmaol.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F" alt="Email"/>
   </a>
   <a href="https://yourportfolio.com">
@@ -31,8 +31,6 @@
 </div>
 
 <!-- About Section with Gradient Border -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png"/>
 
 ### ABOUT
 
