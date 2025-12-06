@@ -125,8 +125,7 @@ const developer = {
 
 <!-- Profile Summary Card - Using GitHub Action Generated Files -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/main/profile-summary-card-output/0-profile-details.svg" alt="Profile Summary"/>
-</div>
+<img src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/main/profile-summary-card-output/2077/0-profile-details.svg"/></div>
 
 <br/>
 
