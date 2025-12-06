@@ -131,8 +131,8 @@ const developer = {
 
 <!-- Commit Time Distribution - Using GitHub Action Generated Files -->
 <div align="center">
-<img width="49%" src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/main/profile-summary-card-output/4-productive-time.svg" alt="Productive Time"/>
-<img width="49%" src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/main/profile-summary-card-output/1-repos-per-language.svg" alt="Repos per Language"/>
+<img width="49%" src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/main/profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time"/>
+<img width="49%" src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/main/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per Language"/>
 </div>
 
 <br/>
