@@ -94,9 +94,6 @@ const developer = {
 
 </div>
 
-<!-- Gradient Divider -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png"/>
 
 ### CURRENTLY LISTENING
 
@@ -104,13 +101,13 @@ const developer = {
 
 <div align="center">
 
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+<a href="https://open.spotify.com/user/3KJT9IlFSA6DpvFwUxpPmQ">
   <img src="https://novatorem-kyzbk7u8l-bardiesel.vercel.app/api/spotify?background_color=0D1117&border_color=6366F1" alt="Spotify Now Playing" />
 </a>
 
 <br/><br/>
 
-<a href="https://open.spotify.com/playlist/YOUR_PLAYLIST_ID">
+<a href="https://open.spotify.com/playlist/b3953123e085424b">
   <img src="https://img.shields.io/badge/CODING_PLAYLIST-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1AA34A" alt="Spotify Playlist"/>
 </a>
 
