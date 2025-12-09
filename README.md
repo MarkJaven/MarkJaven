@@ -87,6 +87,11 @@ const developer = {
 
 <div align="center">
 
+<!-- GitHub Stats Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarkJaven&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=E5E7EB&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<!-- Top Languages Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkJaven&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB&langs_count=8"/>
 
 </div>
 
@@ -94,7 +99,7 @@ const developer = {
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=MarkJaven&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=818CF8&fire=818CF8&currStreakLabel=6366F1&sideLabels=E5E7EB&sideNums=E5E7EB&dates=9CA3AF&currStreakNum=E5E7EB"/>
+<img width="95%" src="https://streak-stats.demolab.com/?user=MarkJaven&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=818CF8&fire=818CF8&currStreakLabel=6366F1&sideLabels=E5E7EB&sideNums=E5E7EB&dates=9CA3AF&currStreakNum=E5E7EB"/>
 </div>
 
 <br/>
@@ -120,15 +125,15 @@ const developer = {
 
 <!-- Profile Summary Card - Using GitHub Action Generated Files -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/main/profile-summary-card-output/algolia/0-profile-details.svg"/></div>
-
+<img src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/main/profile-summary-card-output/0-profile-details.svg" alt="Profile Summary"/>
+</div>
 
 <br/>
 
 <!-- Commit Time Distribution - Using GitHub Action Generated Files -->
 <div align="center">
-<img width="49%" src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/main/profile-summary-card-output/algolia/4-productive-time.svg" alt="Productive Time"/>
-<img width="49%" src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/main/profile-summary-card-output/algolia/2-most-commit-language.svg" alt="Repos per Language"/>
+<img width="49%" src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/main/profile-summary-card-output/4-productive-time.svg" alt="Productive Time"/>
+<img width="49%" src="https://raw.githubusercontent.com/MarkJaven/MarkJaven/main/profile-summary-card-output/1-repos-per-language.svg" alt="Repos per Language"/>
 </div>
 
 <br/>
@@ -138,6 +143,10 @@ const developer = {
 
 <br/>
 
+<!-- 3D Contribution Calendar -->
+<div align="center">
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=MarkJaven&theme=tokyonight&bg_color=0D1117&border_color=6366F1&title_color=6366F1&text_color=E5E7EB" alt="3D Contribution Calendar"/>
+</div>
 
 <br/>
 
