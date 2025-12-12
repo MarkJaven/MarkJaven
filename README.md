@@ -94,7 +94,8 @@ const developer = {
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=MarkJaven&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=818CF8&fire=818CF8&currStreakLabel=6366F1&sideLabels=E5E7EB&sideNums=E5E7EB&dates=9CA3AF&currStreakNum=E5E7EB"/>
+<!-- <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=MarkJaven&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=818CF8&fire=818CF8&currStreakLabel=6366F1&sideLabels=E5E7EB&sideNums=E5E7EB&dates=9CA3AF&currStreakNum=E5E7EB"/> -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MarkJaven&locale=en&mode=weekly&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 <br/>
