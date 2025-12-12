@@ -95,7 +95,7 @@ const developer = {
 <!-- GitHub Streak Stats -->
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=MarkJaven&theme=tokyonight&hide_border=true&locale=fil&short_numbers=true&card_width=550" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=MarkJaven&theme=tokyonight&hide_border=true&locale=fil&short_numbers=true&card_width=650" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
