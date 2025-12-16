@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Premium Gradient Header with Particle Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,6,11,20&height=220&section=header&text=MARK%20JAVEN%20MANALO&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20Data Analyst%20%7C%20Game%20Developer&descAlignY=54&descAlign=50&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,6,11,20&height=220&section=header&text=MARK%20JAVEN%20MANALO&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20DataAnalyst%20%7C%20Game%20Developer&descAlignY=54&descAlign=50&descSize=16"/>
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
